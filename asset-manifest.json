@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/social-auth-frontend/static/css/main.2cce8147.chunk.css",
+    "main.js": "/social-auth-frontend/static/js/main.0b9aceb4.chunk.js",
+    "main.js.map": "/social-auth-frontend/static/js/main.0b9aceb4.chunk.js.map",
+    "runtime~main.js": "/social-auth-frontend/static/js/runtime~main.8f037264.js",
+    "runtime~main.js.map": "/social-auth-frontend/static/js/runtime~main.8f037264.js.map",
+    "static/js/2.54eaddb3.chunk.js": "/social-auth-frontend/static/js/2.54eaddb3.chunk.js",
+    "static/js/2.54eaddb3.chunk.js.map": "/social-auth-frontend/static/js/2.54eaddb3.chunk.js.map",
+    "index.html": "/social-auth-frontend/index.html",
+    "precache-manifest.6928f6a48261e0b950d756931aba5082.js": "/social-auth-frontend/precache-manifest.6928f6a48261e0b950d756931aba5082.js",
+    "service-worker.js": "/social-auth-frontend/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/social-auth-frontend/static/css/main.2cce8147.chunk.css.map"
+  }
+}
