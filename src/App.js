@@ -38,6 +38,7 @@ class App extends React.Component {
     console.log(tokenBlob);
 
     const options = {
+      crossDomain: true,
       method: "POST",
       body: tokenBlob,
       mode: "cors",
