@@ -45,7 +45,7 @@ class App extends React.Component {
       cache: "default"
     };
 
-    fetch("https://social-auth-tutorial.herokuapp.com/api/v1/auth/google", options).then(r => {
+    fetch("https://fast-peak-93888.herokuapp.com/api/v1/auth/google", options).then(r => {
       const token = r.headers.get("x-auth-token");
       r.json().then(user => {
         if (token) {
