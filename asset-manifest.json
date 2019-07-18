@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/social-auth-frontend/static/css/main.2cce8147.chunk.css",
-    "main.js": "/social-auth-frontend/static/js/main.30e57409.chunk.js",
-    "main.js.map": "/social-auth-frontend/static/js/main.30e57409.chunk.js.map",
+    "main.js": "/social-auth-frontend/static/js/main.e43702f5.chunk.js",
+    "main.js.map": "/social-auth-frontend/static/js/main.e43702f5.chunk.js.map",
     "runtime~main.js": "/social-auth-frontend/static/js/runtime~main.8f037264.js",
     "runtime~main.js.map": "/social-auth-frontend/static/js/runtime~main.8f037264.js.map",
     "static/js/2.54eaddb3.chunk.js": "/social-auth-frontend/static/js/2.54eaddb3.chunk.js",
     "static/js/2.54eaddb3.chunk.js.map": "/social-auth-frontend/static/js/2.54eaddb3.chunk.js.map",
     "index.html": "/social-auth-frontend/index.html",
-    "precache-manifest.5ad86113990902415cbedbd3c9df1c9c.js": "/social-auth-frontend/precache-manifest.5ad86113990902415cbedbd3c9df1c9c.js",
+    "precache-manifest.5eceef98699a83d7c26052a1e9f6c19c.js": "/social-auth-frontend/precache-manifest.5eceef98699a83d7c26052a1e9f6c19c.js",
     "service-worker.js": "/social-auth-frontend/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/social-auth-frontend/static/css/main.2cce8147.chunk.css.map"
   }
